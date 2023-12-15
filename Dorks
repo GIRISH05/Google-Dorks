@@ -1,0 +1,16 @@
+site:com.* intitle:"index of" *.admin
+"index of" filetype:sql
+"index of" filetype:env
+"index of" filetype:env
+"index of" :.py
+site:.edu intext:"index of" "shell"
+site:com.* intitle:"index of" *.sql
+site:com.* intitle:"index of" *.db
+site:gov.* intitle:"index of" *.db
+site:com.* intitle:"index of" *shell.php
+site:gov.* intitle:"index of" *.shell
+site:gov.* intitle:"index of" *.php
+intitle:"index of" "admin-shell"
+index of "fileadmin/php"
+site:com.* intitle:"index of" *.admin.password
+"index of" filetype:db
